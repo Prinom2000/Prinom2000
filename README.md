@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Prinom2000
-- 👀 I’m interested in computer science.
+- 👀 I’m interested & enthusiast in computer science.
 - 🌱 I’m currently learning problem solving technique, wab development, ML, AI etc.
 - 📫 How to reach me:
 - Linkdin: https://www.linkedin.com/in/prinom-mojumder-7b40651a8/    Email: prinommojumder19@gmail.com
