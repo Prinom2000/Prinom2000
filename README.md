@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Prinom2000
+- 👋 Hi, I’m PRINOM MOJUMDER
 - 👀 I’m interested in Learning Engineering
 - 🌱 I’m currently learning Computer Science and Engineering
 - 📫 How to reach me:
