@@ -1,6 +1,5 @@
 - 👋 Hi, I’m PRINOM MOJUMDER
-- 👀 I’m interested in Learning Engineering
-- 🌱 I’m currently learning Computer Science and Engineering
+- 👀 I’m a fresh graduate of Computer Science and Engineering from East West University
 - 📫 How to reach me:
 - 📧 prinommojumder19@gmail.com
 - 📞 01610982021
