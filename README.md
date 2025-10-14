@@ -1,5 +1,6 @@
 - 👋 Hi, I’m PRINOM MOJUMDER
-- 👀 I’m a fresh graduate of Computer Science and Engineering from East West University
+- 🧑‍💻 AI Engineer at Softvence (Betopia)
+- 👀 Graduate of Computer Science and Engineering from East West University
 - 📫 How to reach me:
 - 📧 prinommojumder19@gmail.com
 - 📞 01610982021
