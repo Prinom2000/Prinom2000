@@ -2,7 +2,7 @@
 - 🧑‍💻 AI Engineer at Softvence (Betopia)
 - 👀 Graduate of Computer Science and Engineering from East West University
 - 📫 How to reach me:
-- 📧 prinommojumder19@gmail.com
+- 📧 prinommojumder@gmail.com
 - 📞 01610982021
 - 🔗 https://www.linkedin.com/in/prinom
 
