@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Prinom Mojumder</h1>
-<h3 align="center">AI/ML Engineer | LLMs • RAG • Computer Vision • MLOps</h3>
+<h3 align="center">AI/ML Engineer | LLMs • RAG • Computer Vision • MLOps • NLP • GEN-AI</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+production-grade+AI+systems;LLMs+%7C+RAG+%7C+Computer+Vision+%7C+MLOps;Turning+research+into+real+products" alt="Typing SVG" />
