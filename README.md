@@ -135,20 +135,6 @@
 - **Explainable Deep Learning Paradigms for Nitrogen Deficiency Detection** — *ICCIT 2025*
 - **RDF Data Clustering Framework for Knowledge Graph-based Search & Recommendation Systems** — *Capstone Research*
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Prinom2000&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prinom2000&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prinom2000&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 <p align="center">
   <i>⚡ Always exploring new AI research and building things that actually ship.</i>
