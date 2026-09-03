@@ -125,7 +125,7 @@
 | 🕸️ [**RDF Knowledge Graph Clustering**](https://github.com/Prinom2000/Capstone-project-RDF-data-clustering) | GNN-based entity clustering with Word2Vec/BERT embeddings |
 | 🇧🇩 [**Bangla NLP Classifier**](https://github.com/Prinom2000/Bangla-Sentence-Classification-using-BERT-Variants) | 92%+ accuracy BERT variants with SHAP/LIME explainability |
 | 📚 [**Hybrid Recommendation System**](https://github.com/Prinom2000/Book-Recommendation-System-CSE-479) | Collaborative + content-based filtering with KNN |
-| 🌱 **Agricultural AI: Nitrogen Deficiency Detection** | CNN-based CV pipeline with Grad-CAM visualization |
+| 🌱 [**Agricultural AI: Nitrogen Deficiency Detection**](https://ieeexplore.ieee.org/document/11491378) | CNN-based CV pipeline with Grad-CAM visualization |
 | ⚡ [**Big Data Analytics with Apache Spark**](https://github.com/Prinom2000/Big-Data-CSE488) | Large-scale course recommendation using Hadoop & PySpark |
 
 ---
